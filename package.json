@@ -1,0 +1,23 @@
+{
+  "name": "netlify-dev-teeters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/netlify-dev.git"
+  },
+  "keywords": [],
+  "author": "Cynthia Teeters <cynthia.teeters@raritanval.edu> (https://github.com/cynthiateeters)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/netlify-dev/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/netlify-dev#readme",
+  "dependencies": {
+    "random-words": "^1.1.1"
+  }
+}
